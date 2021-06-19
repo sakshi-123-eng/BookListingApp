@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="find_books_by_typing_keywords">find books by keywords</string>
+    <string name="todo">TODO</string>
+</resources>
