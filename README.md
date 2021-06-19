@@ -1,0 +1,3 @@
+# BookListingApp
+This is book listing android application in which user should be able to enter a keyword, press the search button, and receive a list of published books which relate to that keyword
+To achieve this, i have used Google Book API, this is a well-maintained API which returns information in a JSON formate. AsyncTask is built to query the API. After quering the API , there was need to parse the result. This involve storing the information returned by the API in a custom class. at last List and Adapter pattern will be have used to populate a list on the user's screen with the information stored in the custom objects .
